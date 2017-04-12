@@ -1,9 +1,5 @@
-
-
-
 public class MinhaThreadThread extends Thread {
 	String nome;
-	
 	
 	public MinhaThreadThread(String nome) {
 		this.nome = nome;
