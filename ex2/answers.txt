@@ -1,0 +1,8 @@
+2.
+2.1 A classe SlowConsole não implementa a interface Runnable e portanto não pode
+ser executada como uma Thread através de @Override do método run. Além disso o
+metodo run() deveria estar dentro do escopo de definição da classe SlowConsole.
+
+2.2 Arquivo ./solution1/Main.java
+
+2.3 Arquivo ./solution2/Main.java

@@ -1,8 +1,8 @@
 
 public class MinhaThreadRunnable implements Runnable {
 	String nome;
-	
-	public MinhaThreadThread(String nome) {
+
+	public MinhaThreadRunnable(String nome) {
 		this.nome = nome;
 	}
 
